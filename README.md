@@ -5,5 +5,5 @@
 </div>
 
 ----
-> [!CAUTION]
+> [!WARNING]
 UI libraries in this repo may suddenly break due to source changes.
