@@ -10,7 +10,5 @@
 🎉 A repository with a bunch of roblox UI library's. 🎉
 </div>
 
-<div align="center">
-Information
-</div>
-
+Please be aware that the UI libraries in this repository may experience unexpected issues or stop functioning due to changes in their source dependencies.
+For the latest status or troubleshooting, refer to the library documentation or repository issues.
