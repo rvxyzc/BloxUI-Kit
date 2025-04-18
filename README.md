@@ -11,6 +11,6 @@
 </div>
 
 <div align="center">
-### Information
+Information
 </div>
 
