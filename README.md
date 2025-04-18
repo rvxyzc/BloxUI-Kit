@@ -1,4 +1,15 @@
+Core Technologies
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-
-> Built with: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua"/> Lua</code> + <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roblox_Logo_2022.svg/1200px-Roblox_Logo_2022.svg.png" alt="Roblox"/> Roblox Studio</code>
+![Luau](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Fluent UI](https://img.shields.io/badge/Fluent%20UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Neumorphism](https://img.shields.io/badge/Style-Neumorphism-2C2D72?style=for-the-badge)
+![Optimized](https://img.shields.io/badge/Optimized-For%20Roblox-00A2FF?style=for-the-badge)
+![60 FPS](https://img.shields.io/badge/Performance-60%20FPS%20Ready-green?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile-Responsive-brightgreen?style=for-the-badge)
+![Desktop](https://img.shields.io/badge/Desktop-Compatible-blue?style=for-the-badge)
+![Tablet](https://img.shields.io/badge/Tablet-Optimized-orange?style=for-the-badge)
