@@ -6,4 +6,4 @@
 
 ----
 > [!WARNING]
-> UI libraries in this repo may suddenly break due to source changes.
+> UI libraries in this repository may suddenly break due to source changes.
