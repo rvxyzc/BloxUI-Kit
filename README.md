@@ -5,5 +5,5 @@
 </div>
 
 ----
-
-<p style="color: red; font-weight: bold;">⚠️ WARNING: UI libraries in this repo may suddenly break due to upstream changes.</p>
+> [!CAUTION]
+UI libraries in this repo may suddenly break due to source changes.
