@@ -6,5 +6,4 @@
 
 ----
 
-Please be aware that the UI libraries in this repository may experience unexpected issues or stop functioning due to changes in their source dependencies.
-For the latest status or troubleshooting, refer to the library documentation or repository issues.
+[!] UI libraries in this repo may break due to upstream changes.
